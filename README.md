@@ -12,7 +12,7 @@ These certificates reflect my commitment to continuous learning in data analytic
 
 * **Issuing Organization:** Deloitte
 * **Skills Gained:** Data analysis and problem-solving, interpreting business cases, applying analytics techniques to real-world scenarios, presenting actionable recommendations.
-* **File:** [View Certificate](Delloite australia data analytics certificate.pdf)
+* **File:** [View Certificate](https://github.com/berrina-data/Certificates-and-achievements/blob/main/Delloite%20australia%20data%20analytics%20certificate.pdf)
 
 ---
 
