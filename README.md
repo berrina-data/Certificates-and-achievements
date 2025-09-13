@@ -20,7 +20,7 @@ These certificates reflect my commitment to continuous learning in data analytic
 
 * **Issuing Organization:** TCS iON
 * **Skills Gained:** Business communication, corporate etiquette, interview preparedness, resume building, professional soft skills.
-* **File:** [View Certificate](TCS CERTIFICATE.pdf)
+* **File:** [View Certificate](https://github.com/berrina-data/Certificates-and-achievements/blob/main/TCS%20CERTIFICATE.pdf)
 
 ---
 
